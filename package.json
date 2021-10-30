@@ -1,0 +1,24 @@
+{
+  "name": "workspaces",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ],
+  "workspaces":[
+    "axios-0.21.0",
+    "axios-0.21.1",
+    "axios-0.23.0",
+    "axios-0.24.0",
+    "axios-no",
+    "frame-work"
+  ]
+}

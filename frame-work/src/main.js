@@ -30,19 +30,19 @@ import axios10 from '../../axios-no/src/axios-2'
 // console.log(stringExportA)
 
 // console.log([
-     axios1('https://www.lilnong.top/cors/axios1?axios=true&v='+axios1.VERSION).then(v=>v.data).then(console.log),
+     axios1('https://www.lilnong.top/cors/axios1?axios=true&v='+axios1.VERSION).then(v=>v.data).then(console.log);//,
 //   axios2,
-     axios3('https://www.lilnong.top/cors/axios3?axios=true&v='+axios3.VERSION).then(v=>v.data).then(console.log),
+     axios3('https://www.lilnong.top/cors/axios3?axios=true&v='+axios3.VERSION).then(v=>v.data).then(console.log);//,
 //   axios4,
-     axios5('https://www.lilnong.top/cors/axios5?axios=true&v='+axios5.VERSION).then(v=>v.data).then(console.log),
+     axios5('https://www.lilnong.top/cors/axios5?axios=true&v='+axios5.VERSION).then(v=>v.data).then(console.log);//,
 //   axios6,
-     axios7('https://www.lilnong.top/cors/axios7?axios=true&v='+axios7.VERSION).then(v=>v.data).then(console.log),
+     axios7('https://www.lilnong.top/cors/axios7?axios=true&v='+axios7.VERSION).then(v=>v.data).then(console.log);//,
 //   axios8,
-     axios9('https://www.lilnong.top/cors/axios9?axios=true&v='+axios9.VERSION).then(v=>v.data).then(console.log),
+     axios9('https://www.lilnong.top/cors/axios9?axios=true&v='+axios9.VERSION).then(v=>v.data).then(console.log);//,
 //   axios10
 // ])
 // Vue.config.productionTip = false
-console.log('main-end')
+console.log('main-end');
 // new Vue({
 //   render: function (h) { return h(App) },
 // }).$mount('#app')
