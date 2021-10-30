@@ -30,6 +30,7 @@ import axios10 from '../../axios-no/src/axios-2'
 // console.log(stringExportA)
 
 // console.log([
+     axios('https://www.lilnong.top/cors/axios?axios=true&v='+axios.VERSION).then(v=>v.data).then(console.log);//,
      axios1('https://www.lilnong.top/cors/axios1?axios=true&v='+axios1.VERSION).then(v=>v.data).then(console.log);//,
 //   axios2,
      axios3('https://www.lilnong.top/cors/axios3?axios=true&v='+axios3.VERSION).then(v=>v.data).then(console.log);//,
